@@ -1,15 +1,14 @@
-- 👋 Hi, I’m Lauren Overend (@loverend)
+- 👋 Hi, I’m Dr Lauren Overend (@loverend)
 
  
-- :woman_student: I’m a final year PhD  student in Genomic Medicine and Statistics @ The Wellcome Trust Centre for Human Genetics, The University of Oxford. 
-- :woman_teacher: I am supervised by Julian Knight and Rachael Bashford-Rogers. 
+- :woman_student: I am a recent PhD Gradaute in Genomic Medicine and Statistics currently on the hunt for new bioinformatics opportunities!
+- :woman_teacher: I was supervised by Julian Knight and Rachael Bashford-Rogers. 
 
-- :desktop_computer: :dna: I’m a bioinformatician and my research focuses on: 
+- :desktop_computer: :dna: y research has focused on: 
   -   BCR and TCR repertoire analysis 
   -   Bulk RNseq and scRNAseq  (emphasis on viral detection) 
   -   Sepsis 
- 
-- 📫 How to reach me: lauren.overend@oriel.ox.ac.uk
+
 
 <!---
 loverend/loverend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
