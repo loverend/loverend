@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Dr Lauren Overend (@loverend)
+- 👋 Hi, I’m Dr. Lauren Overend (@loverend)
 
  
-- :woman_student: I am a recent PhD Gradaute in Genomic Medicine and Statistics currently on the hunt for new bioinformatics opportunities!
+- :woman_student: I am a recent PhD Gradaute in Genomic Medicine and Statistics currently seeking new bioinformatics opportunities!
 - :woman_teacher: I was supervised by Julian Knight and Rachael Bashford-Rogers. 
 
-- :desktop_computer: :dna: y research has focused on: 
+- :desktop_computer: :dna: My PhD research focused on: 
   -   BCR and TCR repertoire analysis 
   -   Bulk RNseq and scRNAseq  (emphasis on viral detection) 
-  -   Sepsis 
+  -   Understanding the genetic underpinnings of Sepsis 
 
 
 <!---
